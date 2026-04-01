@@ -1,0 +1,22 @@
+{
+    "version": "0.1.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obstalabs/neurorouter/releases/download/v0.1.5/neurorouter_0.1.5_windows_amd64.zip",
+            "bin": [
+                "neurorouter.exe"
+            ],
+            "hash": "48d69a063fa5c2c007145ad0274df53e3b98c927d943af8e4d74e318892014bc"
+        },
+        "arm64": {
+            "url": "https://github.com/obstalabs/neurorouter/releases/download/v0.1.5/neurorouter_0.1.5_windows_arm64.zip",
+            "bin": [
+                "neurorouter.exe"
+            ],
+            "hash": "24571ba77610703b5573e45e43d076ef578b1877121cff187320101c71c08205"
+        }
+    },
+    "homepage": "https://neurorouter.dev",
+    "license": "AGPL-3.0",
+    "description": "LLM proxy that cleans, protects, and stabilizes AI sessions before they hit the model"
+}
