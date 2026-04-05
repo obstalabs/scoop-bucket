@@ -1,0 +1,22 @@
+{
+    "version": "0.2.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.2.3/neurorouter-pro_0.2.3_windows_amd64.zip",
+            "bin": [
+                "neurorouter.exe"
+            ],
+            "hash": "9a75ca26cb93ad4e56576ded52d45a30a168d7dfdcd61186ac5053da6b9c8d77"
+        },
+        "arm64": {
+            "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.2.3/neurorouter-pro_0.2.3_windows_arm64.zip",
+            "bin": [
+                "neurorouter.exe"
+            ],
+            "hash": "81f1d385bd959f1f632f50589c8e76cc32f29464d728168da2bd2b6f2079304e"
+        }
+    },
+    "homepage": "https://neurorouter.dev",
+    "license": "Proprietary",
+    "description": "LLM proxy that keeps AI sessions alive — multiplexing, continuity repair, model routing"
+}
