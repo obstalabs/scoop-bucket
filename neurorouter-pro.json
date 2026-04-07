@@ -1,19 +1,19 @@
 {
-    "version": "0.12.4",
+    "version": "0.12.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.12.4/neurorouter-pro_0.12.4_windows_amd64.zip",
+            "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.12.5/neurorouter-pro_0.12.5_windows_amd64.zip",
             "bin": [
                 "neurorouter.exe"
             ],
-            "hash": "1f30d093866418516bac80d2bad1e8edaab6c0e6966f9c954de34aafebf69cd5"
+            "hash": "7e74f79a55c5996b13884535ae6ca1afc87885a2b13378b9549695a321e08a68"
         },
         "arm64": {
-            "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.12.4/neurorouter-pro_0.12.4_windows_arm64.zip",
+            "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.12.5/neurorouter-pro_0.12.5_windows_arm64.zip",
             "bin": [
                 "neurorouter.exe"
             ],
-            "hash": "0aad9db7c7154605db16d9fe1ce40490c9a9c187a33b63db3cdf417ef0b915ad"
+            "hash": "682be840c534b090ec65bd4c223839aaed31c9f86d88adbc3ea599760d282662"
         }
     },
     "homepage": "https://neurorouter.dev",
