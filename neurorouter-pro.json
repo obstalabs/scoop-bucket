@@ -6,14 +6,14 @@
             "bin": [
                 "neurorouter.exe"
             ],
-            "hash": "16cd42b2425dded21ca96d2ba715b5a15a3fc81b23d261066abcd645a4d2558e"
+            "hash": "49ac116aa4cb16f97ca4697ef017f9dd98a7535b53c88b60adfca7ea86476605"
         },
         "arm64": {
             "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.17.17/neurorouter-pro_0.17.17_windows_arm64.zip",
             "bin": [
                 "neurorouter.exe"
             ],
-            "hash": "177b2af19a04245e6656f8eabed5c710a5d7f7abd267b60969a57b7592a5be47"
+            "hash": "2e9250573faff9e17abf8626f68db4be7d0ac19e6a22ccbb8341197d2f81ff08"
         }
     },
     "homepage": "https://neurorouter.dev",
