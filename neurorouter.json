@@ -1,22 +1,22 @@
 {
-    "version": "0.1.33",
+    "version": "0.1.34",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obstalabs/neurorouter/releases/download/v0.1.33/neurorouter_0.1.33_windows_amd64.zip",
+            "url": "https://github.com/obstalabs/neurorouter/releases/download/v0.1.34/neurorouter_0.1.34_windows_amd64.zip",
             "bin": [
                 "neurorouter.exe"
             ],
-            "hash": "b78f57671d5b7c478ccbf400726a75b4f39cd69f06d19b6c7f74f96189219800"
+            "hash": "b248927589dee5f550b72a77b05867bf0df3c05e5319eb93bf5f13b252615db1"
         },
         "arm64": {
-            "url": "https://github.com/obstalabs/neurorouter/releases/download/v0.1.33/neurorouter_0.1.33_windows_arm64.zip",
+            "url": "https://github.com/obstalabs/neurorouter/releases/download/v0.1.34/neurorouter_0.1.34_windows_arm64.zip",
             "bin": [
                 "neurorouter.exe"
             ],
-            "hash": "149e4c02a9fe9a5bf7d3e63093c6686d4539c8d0f22a4f605807035ae1e78352"
+            "hash": "13aadab52f8202f844e2ce8fdc4cb9ec9ab4cdcf0b08b2ea5c1129a7b11750d5"
         }
     },
     "homepage": "https://neurorouter.dev",
     "license": "AGPL-3.0",
-    "description": "LLM proxy that cleans, protects, and stabilizes AI sessions before they hit the model"
+    "description": "Context hygiene layer that cleans and protects AI coding sessions before they hit the model"
 }
