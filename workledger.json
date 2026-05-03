@@ -1,0 +1,22 @@
+{
+    "version": "0.10.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.10.2/workledger_0.10.2_windows_amd64.zip",
+            "bin": [
+                "workledger.exe"
+            ],
+            "hash": "bcec9a7035f37561322b61b80246efa8618770fdefe4b23495cba83ae4812332"
+        },
+        "arm64": {
+            "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.10.2/workledger_0.10.2_windows_arm64.zip",
+            "bin": [
+                "workledger.exe"
+            ],
+            "hash": "3393f2d07d64a6d48557ece70131ec31a9c76955bde62759f3181f0d7b4f1cf9"
+        }
+    },
+    "homepage": "https://hiveram.com",
+    "license": "BUSL-1.1",
+    "description": "Hiveram ledger plane for work orders, claims, release bundles, and WEO attribution"
+}
