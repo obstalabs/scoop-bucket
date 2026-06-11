@@ -6,14 +6,14 @@
             "bin": [
                 "workledger.exe"
             ],
-            "hash": "491a6ec3164eeafeb77adffd1ba87cab433cc329f9a06edceeddbba0fd655962"
+            "hash": "70581d79f8346c2e32c3a3dc5d46743bd8606d1c2e1e3468a1cf997f9e25b14c"
         },
         "arm64": {
             "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.30.0/workledger_0.30.0_windows_arm64.zip",
             "bin": [
                 "workledger.exe"
             ],
-            "hash": "f9e1b19f159e5a201ebd39f8a5a4cd48f6bf76fa60009064a7263e2fc3d35be4"
+            "hash": "f54d6e578d57951ff0777c429618130ce13c6077369fc8eba6a0b4a57a613c07"
         }
     },
     "homepage": "https://hiveram.com",
