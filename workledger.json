@@ -1,19 +1,19 @@
 {
-    "version": "0.46.0",
+    "version": "0.46.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.46.0/workledger_0.46.0_windows_amd64.zip",
+            "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.46.1/workledger_0.46.1_windows_amd64.zip",
             "bin": [
                 "workledger.exe"
             ],
-            "hash": "5917a93cd56299f479eef7382ab947e0b4d859cf2fffb27e5a8267088dbaff74"
+            "hash": "b661e5f503c6846bc90dffe79c10903460368dd25c9a131bcb35f2190e875896"
         },
         "arm64": {
-            "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.46.0/workledger_0.46.0_windows_arm64.zip",
+            "url": "https://github.com/obstalabs/hiveram-dist/releases/download/v0.46.1/workledger_0.46.1_windows_arm64.zip",
             "bin": [
                 "workledger.exe"
             ],
-            "hash": "1ddcbc6bd9037b97da9039d23f778fa300948fb4d9ae6cec305810fc11f89a2c"
+            "hash": "7b82c7e29ebf8f636b2180911ebffc1d10c4db82c58a36779f014cae15a2b9c4"
         }
     },
     "homepage": "https://hiveram.com",
