@@ -12,8 +12,8 @@
         "arm64": {
             "url": "https://github.com/obstalabs/neurorouter-pro-dist/releases/download/v0.37.2/neurorouter-pro_0.37.2_windows_arm64.zip",
             "bin": [
-                "nr.exe",
-                "neurorouter.exe"
+                "neurorouter.exe",
+                "nr.exe"
             ],
             "hash": "c6ef840b46d7e345641a58a47d3b21dcc1f748384aaf5edcf64970f7377fad34"
         }
