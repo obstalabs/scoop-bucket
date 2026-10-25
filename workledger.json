@@ -18,5 +18,5 @@
     },
     "homepage": "https://hiveram.com",
     "license": "Proprietary",
-    "description": "Hiveram ledger plane for work orders, claims, release bundles, and WEO attribution"
+    "description": "System of record for AI-assisted work: work orders, claims, evidence, sign-off"
 }
